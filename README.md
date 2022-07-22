@@ -39,13 +39,13 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 ## Query Responses
 
 1. Sums
-  * AK:
-  * CT
+  * AK:6
+  * CT:5
   * TX:32
-  * WY:
+  * WY:3
 
 2.
-  * Area code:
+  * Area code:90248
 
 3.
   * first_name:
