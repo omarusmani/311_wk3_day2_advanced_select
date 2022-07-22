@@ -41,7 +41,7 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 1. Sums
   * AK:
   * CT
-  * TX:
+  * TX:32
   * WY:
 
 2.
