@@ -45,12 +45,12 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
   * WY:3
 
 2.
-  * Area code:90248
+  * Area code:973
 
 3.
-  * first_name:
-  * county:
-  * county total:
+  * first_name:Andra
+  * county: NEW YORk
+  * county total:14
 
 
 ## Summary
